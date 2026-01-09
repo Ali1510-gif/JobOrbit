@@ -63,6 +63,4 @@ To run this project locally, follow these steps:
 5.  **Access the Application**
     *   Open your browser and navigate to `http://localhost:8080/JobOrbit` (port may vary based on your Tomcat configuration).
 
-## Security Note
 
-This repository contains public code. **Do not commit actual production credentials or secrets** (like database passwords or API keys) in the `web.xml` file. Always use environment variables or a secure configuration management strategy for production deployments.
