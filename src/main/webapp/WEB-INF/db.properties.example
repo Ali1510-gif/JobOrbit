@@ -1,0 +1,4 @@
+db.url=jdbc:mysql://localhost:3306/joborbit
+db.username=YOUR_USERNAME
+db.password=YOUR_PASSWORD
+app.name=JobOrbit

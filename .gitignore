@@ -1,0 +1,10 @@
+# Exclude the private properties file
+src/main/webapp/WEB-INF/db.properties
+
+# Standard things to ignore
+build/
+bin/
+.classpath
+.project
+.settings/
+.DS_Store
